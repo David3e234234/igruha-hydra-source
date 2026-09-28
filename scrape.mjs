@@ -461,7 +461,7 @@ async function main() {
   if (!ALL && !FRESH && !CHECK_UPDATES) {
     for (let page = 1; page <= MAX_PAGES; page++) {
       if (timeExceeded()) break;
-      const pageUrl = page === 1 ? BASE + "/" : `${BASE}/page/${page}/`;
+      const pageUrl = page === 1 ? `${BASE}/new-pc-games/` : `${BASE}/new-pc-games/page/${page}/`;
       console.log(`[page ${page}] ${pageUrl}`);
       let html;
       try {
