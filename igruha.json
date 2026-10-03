@@ -2,6 +2,78 @@
   "name": "Torrent Igruha",
   "downloads": [
     {
+      "title": "OZARK",
+      "uris": [
+        "magnet:?xt=urn:btih:d3bc0f126d6a8d74a7747f19d3bb87c8e6525e2d&dn=OZARK&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-10-03 10:04",
+      "fileSize": "3.85 GB"
+    },
+    {
+      "title": "Game Keeper: Somebody Messed Up My Shop!",
+      "uris": [
+        "magnet:?xt=urn:btih:b7dd3da93f50e7ea21dad360d42b042197940d89&dn=Game%20Keeper%3A%20Somebody%20Messed%20Up%20My%20Shop!&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-10-03 10:01",
+      "fileSize": "1.58 GB"
+    },
+    {
+      "title": "Dyson Sphere Program",
+      "uris": [
+        "magnet:?xt=urn:btih:0109ee1baf3e947122d17d5fe1fb34a1d8744863&dn=Dyson%20Sphere%20Program&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-10-02 22:56",
+      "fileSize": "1.82 GB"
+    },
+    {
+      "title": "Tangledeep",
+      "uris": [
+        "magnet:?xt=urn:btih:a3e2e11d86a444d1aba58a7033c81285c70f5a93&dn=Tangledeep&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-10-02 22:50",
+      "fileSize": "925 MB"
+    },
+    {
+      "title": "Lorn's Lure",
+      "uris": [
+        "magnet:?xt=urn:btih:e77379fc9fa2bde234a53c35b90a5148e169a9f9&dn=Lorn's%20Lure&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-10-02 20:26",
+      "fileSize": "5.78 GB"
+    },
+    {
+      "title": "Hello Kitty Island Adventure",
+      "uris": [
+        "magnet:?xt=urn:btih:08fdb6b1addd1133c0209ea2f24b7ca3730012a0&dn=Hello%20Kitty%20Island%20Adventure&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-10-02 20:05",
+      "fileSize": "4.95 GB"
+    },
+    {
+      "title": "Total War Warhammer 3",
+      "uris": [
+        "magnet:?xt=urn:btih:3c3fd012adb54cba9d6b639f731898348ae09d78&dn=Total%20War%20Warhammer%203&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-10-02 19:50",
+      "fileSize": "73.82 GB"
+    },
+    {
+      "title": "Deathground",
+      "uris": [
+        "magnet:?xt=urn:btih:6bc5f00a862fc8e04e07973a0556933a9ac3a04e&dn=Deathground&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-10-02 19:32",
+      "fileSize": "11.93 GB"
+    },
+    {
+      "title": "Two Point Museum",
+      "uris": [
+        "magnet:?xt=urn:btih:16db4aca77701bcb8db9e5edc09e40e3ebd3f7ac&dn=Two%20Point%20Museum&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-10-02 18:02",
+      "fileSize": "5.89 GB"
+    },
+    {
       "title": "RADIOSOL",
       "uris": [
         "magnet:?xt=urn:btih:957e9e8e963314313448206f45afe481baa16448&dn=RADIOSOL&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
