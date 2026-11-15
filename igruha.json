@@ -2,6 +2,30 @@
   "name": "Torrent Igruha",
   "downloads": [
     {
+      "title": "DEADBOOT",
+      "uris": [
+        "magnet:?xt=urn:btih:86b3821b70ec0b85ec0c0e1a64e68db43b9ae22e&dn=DEADBOOT&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-15 11:54",
+      "fileSize": "1.57 GB"
+    },
+    {
+      "title": "The Devil's Due",
+      "uris": [
+        "magnet:?xt=urn:btih:1851a483a1fcc6cc5cd7633f2385e0a3f6e41006&dn=The%20Devil's%20Due&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-15 11:52",
+      "fileSize": "1.08 GB"
+    },
+    {
+      "title": "Moomin: Midsummer Madness",
+      "uris": [
+        "magnet:?xt=urn:btih:1ede4e3855f636ce91645949a988ec9a9584de2c&dn=Moomin%3A%20Midsummer%20Madness&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-15 11:51",
+      "fileSize": "2.51 GB"
+    },
+    {
       "title": "Chop Chop Inc",
       "uris": [
         "magnet:?xt=urn:btih:63fece29a8f46c062baf37fe245812a9ebc7251d&dn=Chop%20Chop%20Inc&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
@@ -1736,6 +1760,14 @@
       ],
       "uploadDate": "2026-11-11 09:31",
       "fileSize": "64.73 GB"
+    },
+    {
+      "title": "Crimsоn Desert Enhanced",
+      "uris": [
+        "magnet:?xt=urn:btih:8edf7ee61e6c5b674c444e6466852aaaf4a77b2d&dn=Crims%D0%BEn%20Desert%20Enhanced&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-11 09:31",
+      "fileSize": "74.22 GB"
     },
     {
       "title": "Crimsоn Desert Enhanced",
