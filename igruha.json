@@ -2,6 +2,78 @@
   "name": "Torrent Igruha",
   "downloads": [
     {
+      "title": "Dispatch Simulator",
+      "uris": [
+        "magnet:?xt=urn:btih:f566376c3031ba94173af006c7cd9499dc5f92e9&dn=Dispatch%20Simulator&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-24 11:20",
+      "fileSize": "134 MB"
+    },
+    {
+      "title": "Sardoinky",
+      "uris": [
+        "magnet:?xt=urn:btih:19d2b9457070a5e4aa38dd39b18eaec324eba53f&dn=Sardoinky&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-24 11:19",
+      "fileSize": "54 MB"
+    },
+    {
+      "title": "Underbloom",
+      "uris": [
+        "magnet:?xt=urn:btih:a08e0c2a49a87f8942d35b194e8f143e38e08e56&dn=Underbloom&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-24 11:18",
+      "fileSize": "112 MB"
+    },
+    {
+      "title": "The Hundred Days",
+      "uris": [
+        "magnet:?xt=urn:btih:907b10eabfd2bf3bff563f9ac4f6871b0161341a&dn=The%20Hundred%20Days&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-24 11:10",
+      "fileSize": "222 MB"
+    },
+    {
+      "title": "NebulArena",
+      "uris": [
+        "magnet:?xt=urn:btih:ceaf58b7e0ec29952ef8c6d7c12ac55e2ef00aa0&dn=NebulArena&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-24 11:08",
+      "fileSize": "721 MB"
+    },
+    {
+      "title": "Dice Showdown",
+      "uris": [
+        "magnet:?xt=urn:btih:a8f1fec6e776e5d9a30f58b082aebf8351f1fc83&dn=Dice%20Showdown&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-24 11:07",
+      "fileSize": "56 MB"
+    },
+    {
+      "title": "OKUREK",
+      "uris": [
+        "magnet:?xt=urn:btih:9019447238c96c097b06247c839aa00d037d64da&dn=OKUREK&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-24 11:06",
+      "fileSize": "486 MB"
+    },
+    {
+      "title": "On The Train",
+      "uris": [
+        "magnet:?xt=urn:btih:b7113935c08def8c9e993cb70a0f82a14b5c6882&dn=On%20The%20Train&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-24 11:04",
+      "fileSize": "5.09 GB"
+    },
+    {
+      "title": "Serious Sam Fusion",
+      "uris": [
+        "magnet:?xt=urn:btih:3439df272a7c0bfa0cfd165b6bcf08c26325d67d&dn=Serious%20Sam%20Fusion&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-24 10:39",
+      "fileSize": "8.78 GB"
+    },
+    {
       "title": "Phantom Blade Zero",
       "uris": [
         "magnet:?xt=urn:btih:64c67928162b85f402dee6a3ef6c8f4aa0f8c6e2&dn=Phantom%20Blade%20Zero&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
@@ -416,6 +488,14 @@
       ],
       "uploadDate": "2026-11-22 20:55",
       "fileSize": "28.39 GB"
+    },
+    {
+      "title": "Кримсон Дезерт Enhanced",
+      "uris": [
+        "magnet:?xt=urn:btih:8edf7ee61e6c5b674c444e6466852aaaf4a77b2d&dn=%D0%9A%D1%80%D0%B8%D0%BC%D1%81%D0%BE%D0%BD%20%D0%94%D0%B5%D0%B7%D0%B5%D1%80%D1%82%20Enhanced&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-22 20:55",
+      "fileSize": "74.22 GB"
     },
     {
       "title": "Crusader Kings 3 (III)",
@@ -1544,6 +1624,14 @@
       ],
       "uploadDate": "2026-11-20 19:19",
       "fileSize": "50.43 GB"
+    },
+    {
+      "title": "Marvel's Spider-Man 2",
+      "uris": [
+        "magnet:?xt=urn:btih:2105760dc2516f432bb6b65a314293f04f2b8cd1&dn=Marvel's%20Spider-Man%202&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-20 19:19",
+      "fileSize": "88.13 GB"
     },
     {
       "title": "Ghost Hunting Journal",
@@ -8378,6 +8466,14 @@
       "fileSize": "66.53 GB"
     },
     {
+      "title": "Call of Duty: Modern Warfare 4",
+      "uris": [
+        "magnet:?xt=urn:btih:94bfd7f7519df160c0bf93123ff167a71e888d63&dn=Call%20of%20Duty%3A%20Modern%20Warfare%204&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-02 15:26",
+      "fileSize": "66.53 GB"
+    },
+    {
       "title": "Travellers Rest",
       "uris": [
         "magnet:?xt=urn:btih:6a53d5e50c0ec924457651763e2e947821b3bcfe&dn=Travellers%20Rest&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
@@ -8408,6 +8504,14 @@
       ],
       "uploadDate": "2026-11-02 10:32",
       "fileSize": "10.88 GB"
+    },
+    {
+      "title": "Onimusha: Way of the Sword",
+      "uris": [
+        "magnet:?xt=urn:btih:49e14f03d13317600d9bea0ffed243430915230c&dn=Onimusha%3A%20Way%20of%20the%20Sword&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-02 03:13",
+      "fileSize": "48.51 GB"
     },
     {
       "title": "Onimusha: Way of the Sword",
