@@ -2,12 +2,332 @@
   "name": "Torrent Igruha",
   "downloads": [
     {
+      "title": "It's About Pirates",
+      "uris": [
+        "magnet:?xt=urn:btih:24ca6e62163093dbb35d5320f6adde3fa1841b7d&dn=It's%20About%20Pirates&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-27 17:01",
+      "fileSize": "308 MB"
+    },
+    {
+      "title": "MONOMOON",
+      "uris": [
+        "magnet:?xt=urn:btih:6b1d3d0b2bb5089814984ea2444d1754d5e69864&dn=MONOMOON&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-27 16:49",
+      "fileSize": "268 MB"
+    },
+    {
+      "title": "Shelf-Made Tycoon",
+      "uris": [
+        "magnet:?xt=urn:btih:55efe0f4a84593c1cdb7e3de6334ce36ed2fe645&dn=Shelf-Made%20Tycoon&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-27 16:39",
+      "fileSize": "68 MB"
+    },
+    {
+      "title": "Icy Tower",
+      "uris": [
+        "magnet:?xt=urn:btih:6acf9a7c2ba2dfd32e41df43be1560d63d51330b&dn=Icy%20Tower&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-27 16:35",
+      "fileSize": "45 MB"
+    },
+    {
+      "title": "Breachway",
+      "uris": [
+        "magnet:?xt=urn:btih:7ba81d7c7a644c9f3f1f5cd1ff6be793def90bb4&dn=Breachway&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-27 15:03",
+      "fileSize": "1.52 GB"
+    },
+    {
+      "title": "Mortal Sin",
+      "uris": [
+        "magnet:?xt=urn:btih:496dfe2f7ff701de8c5c4c4072f60c7eb5d8d5ab&dn=Mortal%20Sin&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-27 15:03",
+      "fileSize": "1.52 GB"
+    },
+    {
+      "title": "Be My Horde",
+      "uris": [
+        "magnet:?xt=urn:btih:3133052229e8c96dfbe93dcf8d7b54817ce75c61&dn=Be%20My%20Horde&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-27 15:01",
+      "fileSize": "1.28 GB"
+    },
+    {
+      "title": "Slay the Spire 2",
+      "uris": [
+        "magnet:?xt=urn:btih:ab12b70dd50d307b3b7005fdfad54f4cd2940be8&dn=Slay%20the%20Spire%202&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-27 15:01",
+      "fileSize": "1.36 GB"
+    },
+    {
+      "title": "Good Pizza, Great Pizza - Cooking Simulator Game — скачать",
+      "uris": [
+        "magnet:?xt=urn:btih:d57ee07e64edad5e233007d2f348b8000b76e297&dn=Good%20Pizza%2C%20Great%20Pizza%20-%20Cooking%20Simulator%20Game%20%E2%80%94%20%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-27 15:00",
+      "fileSize": "1.28 GB"
+    },
+    {
+      "title": "Clone Drone in the Danger Zone",
+      "uris": [
+        "magnet:?xt=urn:btih:c4e072ca888b2005331de943332d0e54c05d0699&dn=Clone%20Drone%20in%20the%20Danger%20Zone&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-27 14:59",
+      "fileSize": "1.20 GB"
+    },
+    {
+      "title": "I Only Moved My Mouse",
+      "uris": [
+        "magnet:?xt=urn:btih:60e2e4e297c1b8338dd01abe65d47e214dd766f1&dn=I%20Only%20Moved%20My%20Mouse&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-27 14:58",
+      "fileSize": "559 MB"
+    },
+    {
+      "title": "Ведьмак 3 Дикая Охота Remastered",
+      "uris": [
+        "magnet:?xt=urn:btih:77d4e90378ff0afbdd54a9adb0de3de8c6c7816d&dn=%D0%92%D0%B5%D0%B4%D1%8C%D0%BC%D0%B0%D0%BA%203%20%D0%94%D0%B8%D0%BA%D0%B0%D1%8F%20%D0%9E%D1%85%D0%BE%D1%82%D0%B0%20Remastered&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-27 14:53",
+      "fileSize": "57.55 GB"
+    },
+    {
+      "title": "Warhammer 40,000 Battlesector",
+      "uris": [
+        "magnet:?xt=urn:btih:6bcef768cd7096c30d55c40bf6832c366a1f19b7&dn=Warhammer%2040%2C000%20Battlesector&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-27 14:42",
+      "fileSize": "5.31 GB"
+    },
+    {
+      "title": "TerraScape",
+      "uris": [
+        "magnet:?xt=urn:btih:cc3217a84812b3fedce98acac58890f8f0561c4c&dn=TerraScape&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-27 14:41",
+      "fileSize": "1.29 GB"
+    },
+    {
+      "title": "Scarecrow: 90s Crime Story",
+      "uris": [
+        "magnet:?xt=urn:btih:b958bf3b167387086919bb1ca833128f7c683e2d&dn=Scarecrow%3A%2090s%20Crime%20Story&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-27 14:41",
+      "fileSize": "353 MB"
+    },
+    {
+      "title": "Shadows of Doubt",
+      "uris": [
+        "magnet:?xt=urn:btih:5c114f5f293e9ee5b6d952a6e40ac22e78a1da93&dn=Shadows%20of%20Doubt&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-27 14:37",
+      "fileSize": "1.67 GB"
+    },
+    {
+      "title": "Leaf it Alone",
+      "uris": [
+        "magnet:?xt=urn:btih:851a0a33d10f1eed0e6e07b734319c660ffddb63&dn=Leaf%20it%20Alone&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-27 14:27",
+      "fileSize": "1.49 GB"
+    },
+    {
+      "title": "Aksun",
+      "uris": [
+        "magnet:?xt=urn:btih:d7c0d73fbb70a37d29c7dd413e593fdf6c2ef1fa&dn=Aksun&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-27 14:21",
+      "fileSize": "1.51 GB"
+    },
+    {
+      "title": "Cult of the Lamb",
+      "uris": [
+        "magnet:?xt=urn:btih:c8d6a00433eb7687918c4e2892e1bb1b34fff609&dn=Cult%20of%20the%20Lamb&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-27 14:21",
+      "fileSize": "2.67 GB"
+    },
+    {
+      "title": "Knights of Honor 2 (II) Sovereign",
+      "uris": [
+        "magnet:?xt=urn:btih:1e2c66d8b9f9c5c8c7447a4765f5e5a2aa67e9e9&dn=Knights%20of%20Honor%202%20(II)%20Sovereign&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-27 13:53",
+      "fileSize": "4.46 GB"
+    },
+    {
+      "title": "The Binding of Isaac: Rebirth - Repentance",
+      "uris": [
+        "magnet:?xt=urn:btih:b7377f511cd5abff6b67566659f7b5cc75b2b68a&dn=The%20Binding%20of%20Isaac%3A%20Rebirth%20-%20Repentance&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-27 13:51",
+      "fileSize": "1.43 GB"
+    },
+    {
+      "title": "Tunguska The Visitation",
+      "uris": [
+        "magnet:?xt=urn:btih:42dd36f479b230b230f0ec529dcf6a24a877dbad&dn=Tunguska%20The%20Visitation&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-27 13:49",
+      "fileSize": "2.74 GB"
+    },
+    {
+      "title": "Pillars Of Eternity 2 Deadfire",
+      "uris": [
+        "magnet:?xt=urn:btih:ed584eaa6330ea0b1f443d77411df379b191a8a5&dn=Pillars%20Of%20Eternity%202%20Deadfire&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-27 13:47",
+      "fileSize": "17.3 GB"
+    },
+    {
+      "title": "Old World",
+      "uris": [
+        "magnet:?xt=urn:btih:240c8918483127884f5fe28e7139e3d527cb6d0b&dn=Old%20World&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-27 13:41",
+      "fileSize": "2.58 GB"
+    },
+    {
+      "title": "Out of Action",
+      "uris": [
+        "magnet:?xt=urn:btih:22ab6b143de8f03a2779a31c82b87ef8c0007df5&dn=Out%20of%20Action&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-27 13:40",
+      "fileSize": "1.27 GB"
+    },
+    {
+      "title": "Cornucopia",
+      "uris": [
+        "magnet:?xt=urn:btih:5a2744c14574635bd1ca7cc69bc083607573fc1f&dn=Cornucopia&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-27 13:39",
+      "fileSize": "997 MB"
+    },
+    {
+      "title": "No Man's Sky",
+      "uris": [
+        "magnet:?xt=urn:btih:280748f02854dcbf1720593c97790d6ca3e4fee6&dn=No%20Man's%20Sky&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-27 13:39",
+      "fileSize": "26.00 GB"
+    },
+    {
+      "title": "After Inc: Revival",
+      "uris": [
+        "magnet:?xt=urn:btih:c1909a9f6d1d6f1d871284ce8550d059e6998791&dn=After%20Inc%3A%20Revival&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-27 13:37",
+      "fileSize": "609 MB"
+    },
+    {
+      "title": "Oboro no Ichi",
+      "uris": [
+        "magnet:?xt=urn:btih:d76748762741047172fbc602a898f8cd415e4c07&dn=Oboro%20no%20Ichi&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-27 13:36",
+      "fileSize": "542 MB"
+    },
+    {
+      "title": "TFC: The Fertile Crescent",
+      "uris": [
+        "magnet:?xt=urn:btih:0dc1f971539167345b290f8dd3d12d7961ca2ef0&dn=TFC%3A%20The%20Fertile%20Crescent&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-27 13:35",
+      "fileSize": "369 MB"
+    },
+    {
+      "title": "Wizordum",
+      "uris": [
+        "magnet:?xt=urn:btih:72b83b1ac9eaa5972b91144cc0d6ed2c720171ad&dn=Wizordum&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-27 13:33",
+      "fileSize": "331 MB"
+    },
+    {
+      "title": "Ark Nova",
+      "uris": [
+        "magnet:?xt=urn:btih:4c5b83d97c5deaa42cbe99d3eb46cd0c74ed85ca&dn=Ark%20Nova&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-27 13:32",
+      "fileSize": "320 MB"
+    },
+    {
+      "title": "Dressmaker",
+      "uris": [
+        "magnet:?xt=urn:btih:96ba6cfc6b1fe30b944053e7cb2def167a463c86&dn=Dressmaker&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-27 13:31",
+      "fileSize": "282 MB"
+    },
+    {
+      "title": "The Big Hollow: 1982",
+      "uris": [
+        "magnet:?xt=urn:btih:c4836e358c3676fff76c52317e8df0743d54c698&dn=The%20Big%20Hollow%3A%201982&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-27 13:31",
+      "fileSize": "359 MB"
+    },
+    {
+      "title": "Marque &amp; Reprisal",
+      "uris": [
+        "magnet:?xt=urn:btih:f0e1138ae527ddfbea62e001fff93e6654709ed2&dn=Marque%20%26amp%3B%20Reprisal&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-27 13:30",
+      "fileSize": "276 MB"
+    },
+    {
+      "title": "Super Fantasy Kingdom",
+      "uris": [
+        "magnet:?xt=urn:btih:acf27705f96e5df0a15ec122f97e04475d4f9cb2&dn=Super%20Fantasy%20Kingdom&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-27 13:29",
+      "fileSize": "248 MB"
+    },
+    {
+      "title": "Sandustry",
+      "uris": [
+        "magnet:?xt=urn:btih:44fdabf1b78257988dc1df5ef4e907c51b9921d6&dn=Sandustry&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-27 13:28",
+      "fileSize": "227 MB"
+    },
+    {
+      "title": "Baldi's Basics Plus",
+      "uris": [
+        "magnet:?xt=urn:btih:256f04ee4c9a28a12c736f63c59529fab5baed02&dn=Baldi's%20Basics%20Plus&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-27 13:27",
+      "fileSize": "73 MB"
+    },
+    {
       "title": "Reshine",
       "uris": [
         "magnet:?xt=urn:btih:f4c893e8ddaf6e0205e399a57865182a139b64bb&dn=Reshine&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
       ],
       "uploadDate": "2026-11-27 11:42",
       "fileSize": "4.94 GB"
+    },
+    {
+      "title": "Stolen Realm",
+      "uris": [
+        "magnet:?xt=urn:btih:6a2098fd53e2fc3081e50f136c3f22e24f431e78&dn=Stolen%20Realm&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-27 11:39",
+      "fileSize": "1.35 GB"
+    },
+    {
+      "title": "Tank Squad",
+      "uris": [
+        "magnet:?xt=urn:btih:7f386fd5748aa322d7b0fa7f3e624b109029c0da&dn=Tank%20Squad&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-27 11:37",
+      "fileSize": "11.45 GB"
     },
     {
       "title": "Chronocracy",
@@ -26,12 +346,52 @@
       "fileSize": "1.69 GB"
     },
     {
+      "title": "Lords of the Fallen 2023",
+      "uris": [
+        "magnet:?xt=urn:btih:2aa5118431ea597e553fbe4a37fc5b0d494e1b8b&dn=Lords%20of%20the%20Fallen%202023&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-27 11:21",
+      "fileSize": "30.81 GB"
+    },
+    {
+      "title": "Warhammer 40,000: Space Marine 2",
+      "uris": [
+        "magnet:?xt=urn:btih:d7aca0e4884acfcce960a1a30c7df20f1e000a61&dn=Warhammer%2040%2C000%3A%20Space%20Marine%202&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-27 11:19",
+      "fileSize": "63.41 GB"
+    },
+    {
+      "title": "Gears of War: E-Day",
+      "uris": [
+        "magnet:?xt=urn:btih:33ad2bdbdaefc07e0f11c1e62ce871c2e11da7db&dn=Gears%20of%20War%3A%20E-Day&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-27 11:17",
+      "fileSize": "96.09 GB"
+    },
+    {
       "title": "Appulse",
       "uris": [
         "magnet:?xt=urn:btih:d44ea63594d4f18b1f0ee8b4edfb67cd4ac48970&dn=Appulse&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
       ],
       "uploadDate": "2026-11-26 20:20",
       "fileSize": "1.09 GB"
+    },
+    {
+      "title": "Company of Heroes 3",
+      "uris": [
+        "magnet:?xt=urn:btih:12430d1463205dabe0f885c59d6f09ac5191a633&dn=Company%20of%20Heroes%203&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-26 20:19",
+      "fileSize": "22.47 GB"
+    },
+    {
+      "title": "GRIME 2 (II)",
+      "uris": [
+        "magnet:?xt=urn:btih:f184aad35ed19d2252e50b377a31c631b540f979&dn=GRIME%202%20(II)&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-26 20:17",
+      "fileSize": "12.23 GB"
     },
     {
       "title": "ГТА 6 (GTA 6)",
@@ -112,14 +472,6 @@
       ],
       "uploadDate": "2026-11-26 12:44",
       "fileSize": "689 MB"
-    },
-    {
-      "title": "I Only Moved My Mouse",
-      "uris": [
-        "magnet:?xt=urn:btih:ebc2c6572ffce265f8034fd7d4204fdf5f84da26&dn=I%20Only%20Moved%20My%20Mouse&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
-      ],
-      "uploadDate": "2026-11-26 12:43",
-      "fileSize": "533 MB"
     },
     {
       "title": "Beholgar 2",
@@ -336,14 +688,6 @@
       ],
       "uploadDate": "2026-11-26 11:21",
       "fileSize": "19.28 GB"
-    },
-    {
-      "title": "Super Fantasy Kingdom",
-      "uris": [
-        "magnet:?xt=urn:btih:c973c2c818f363c90ed5bda06361aee5608cd74a&dn=Super%20Fantasy%20Kingdom&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
-      ],
-      "uploadDate": "2026-11-25 21:57",
-      "fileSize": "297 MB"
     },
     {
       "title": "868-BACK",
@@ -760,14 +1104,6 @@
       ],
       "uploadDate": "2026-11-25 11:42",
       "fileSize": "717 MB"
-    },
-    {
-      "title": "MONOMOON",
-      "uris": [
-        "magnet:?xt=urn:btih:739548228e61b35843fd0b98219773f7cec7f938&dn=MONOMOON&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
-      ],
-      "uploadDate": "2026-11-25 11:40",
-      "fileSize": "268 MB"
     },
     {
       "title": "Space Engineers",
@@ -1362,14 +1698,6 @@
       "fileSize": "310 MB"
     },
     {
-      "title": "Marque &amp; Reprisal",
-      "uris": [
-        "magnet:?xt=urn:btih:84c960dda8fe2c82350e409a9f2585e4909f6d20&dn=Marque%20%26amp%3B%20Reprisal&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
-      ],
-      "uploadDate": "2026-11-23 23:35",
-      "fileSize": "276 MB"
-    },
-    {
       "title": "ROLLA",
       "uris": [
         "magnet:?xt=urn:btih:0998a141c7abcb0de92fe735c886e3b05f9c1176&dn=ROLLA&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
@@ -1424,14 +1752,6 @@
       ],
       "uploadDate": "2026-11-23 21:33",
       "fileSize": "1.54 GB"
-    },
-    {
-      "title": "Be My Horde",
-      "uris": [
-        "magnet:?xt=urn:btih:8eff08d221b20e1e305b9b3793428593e9bc3e94&dn=Be%20My%20Horde&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
-      ],
-      "uploadDate": "2026-11-23 21:32",
-      "fileSize": "1.29 GB"
     },
     {
       "title": "GroundInFlames",
@@ -1554,14 +1874,6 @@
       "fileSize": "198 MB"
     },
     {
-      "title": "Oboro no Ichi",
-      "uris": [
-        "magnet:?xt=urn:btih:53a9efa3c8ff90b267ecf15d77c6bd10427b4ace&dn=Oboro%20no%20Ichi&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
-      ],
-      "uploadDate": "2026-11-23 10:21",
-      "fileSize": "542 MB"
-    },
-    {
       "title": "JOHN GLEEP",
       "uris": [
         "magnet:?xt=urn:btih:b18f90b88ed17c4572555d81d8ba5bf2ac3f70b6&dn=JOHN%20GLEEP&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
@@ -1592,14 +1904,6 @@
       ],
       "uploadDate": "2026-11-23 10:17",
       "fileSize": "119 MB"
-    },
-    {
-      "title": "Shelf-Made Tycoon",
-      "uris": [
-        "magnet:?xt=urn:btih:2af4f9a620048e1367f762490e9a90d602386b76&dn=Shelf-Made%20Tycoon&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
-      ],
-      "uploadDate": "2026-11-23 10:15",
-      "fileSize": "68 MB"
     },
     {
       "title": "Dead Space: Extraction",
@@ -1640,14 +1944,6 @@
       ],
       "uploadDate": "2026-11-23 08:21",
       "fileSize": "3.76 GB"
-    },
-    {
-      "title": "Good Pizza, Great Pizza - Cooking Simulator Game — скачать",
-      "uris": [
-        "magnet:?xt=urn:btih:838f7f80c936f995556164d872d350fecffd3ae7&dn=Good%20Pizza%2C%20Great%20Pizza%20-%20Cooking%20Simulator%20Game%20%E2%80%94%20%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
-      ],
-      "uploadDate": "2026-11-22 22:16",
-      "fileSize": "1.28 GB"
     },
     {
       "title": "Drill Core",
@@ -1752,14 +2048,6 @@
       ],
       "uploadDate": "2026-11-22 21:30",
       "fileSize": "160 MB"
-    },
-    {
-      "title": "Baldi's Basics Plus",
-      "uris": [
-        "magnet:?xt=urn:btih:50ded329b2c89343ef2f289cda9fc6ead86024e0&dn=Baldi's%20Basics%20Plus&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
-      ],
-      "uploadDate": "2026-11-22 21:28",
-      "fileSize": "74 MB"
     },
     {
       "title": "Hold the Dawn",
@@ -1976,14 +2264,6 @@
       ],
       "uploadDate": "2026-11-22 19:08",
       "fileSize": "1.71 GB"
-    },
-    {
-      "title": "The Binding of Isaac: Rebirth - Repentance",
-      "uris": [
-        "magnet:?xt=urn:btih:b7377f511cd5abff6b67566659f7b5cc75b2b68a&dn=The%20Binding%20of%20Isaac%3A%20Rebirth%20-%20Repentance&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
-      ],
-      "uploadDate": "2026-11-22 19:06",
-      "fileSize": "1.43 GB"
     },
     {
       "title": "DERELIKT",
@@ -2256,14 +2536,6 @@
       ],
       "uploadDate": "2026-11-21 12:15",
       "fileSize": "784 MB"
-    },
-    {
-      "title": "Out of Action",
-      "uris": [
-        "magnet:?xt=urn:btih:3c9d596c16874b4543befe516309b98e13cd8cd0&dn=Out%20of%20Action&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
-      ],
-      "uploadDate": "2026-11-21 12:14",
-      "fileSize": "1.27 GB"
     },
     {
       "title": "Super Mario Bros. Wonder",
@@ -3490,14 +3762,6 @@
       "fileSize": "949 MB"
     },
     {
-      "title": "Scarecrow: 90s Crime Story",
-      "uris": [
-        "magnet:?xt=urn:btih:fb5bc3684fc778c95ecd99ee107e5816d41c706e&dn=Scarecrow%3A%2090s%20Crime%20Story&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
-      ],
-      "uploadDate": "2026-11-17 22:38",
-      "fileSize": "348 MB"
-    },
-    {
       "title": "TETRIS THE GRAND MASTER 4",
       "uris": [
         "magnet:?xt=urn:btih:8e8693338dfb18bbe5ede1a1716e201138c14e6c&dn=TETRIS%20THE%20GRAND%20MASTER%204&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
@@ -3600,14 +3864,6 @@
       ],
       "uploadDate": "2026-11-17 19:32",
       "fileSize": "8.35 GB"
-    },
-    {
-      "title": "It's About Pirates",
-      "uris": [
-        "magnet:?xt=urn:btih:ff219758c35685dfb084c428d3326e1b00053e35&dn=It's%20About%20Pirates&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
-      ],
-      "uploadDate": "2026-11-17 19:31",
-      "fileSize": "308 MB"
     },
     {
       "title": "Dearbnb",
@@ -3938,14 +4194,6 @@
       "fileSize": "41.02 GB"
     },
     {
-      "title": "Gears of War: E-Day",
-      "uris": [
-        "magnet:?xt=urn:btih:33ad2bdbdaefc07e0f11c1e62ce871c2e11da7db&dn=Gears%20of%20War%3A%20E-Day&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
-      ],
-      "uploadDate": "2026-11-17 14:35",
-      "fileSize": "96.09 GB"
-    },
-    {
       "title": "Conan Exiles Enhanced",
       "uris": [
         "magnet:?xt=urn:btih:02293be233b9648bc575df17c590ccef3f79883a&dn=Conan%20Exiles%20Enhanced&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
@@ -4178,14 +4426,6 @@
       "fileSize": "39.02 GB"
     },
     {
-      "title": "Slay the Spire 2",
-      "uris": [
-        "magnet:?xt=urn:btih:da6f3922d95b43befa5e0755df4edbf4b0110648&dn=Slay%20the%20Spire%202&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
-      ],
-      "uploadDate": "2026-11-16 17:06",
-      "fileSize": "1.35 GB"
-    },
-    {
       "title": "Escape Academy 2: Back 2 School",
       "uris": [
         "magnet:?xt=urn:btih:09b15e59a9907c7725911bf8393fe53b72afa94a&dn=Escape%20Academy%202%3A%20Back%202%20School&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
@@ -4304,14 +4544,6 @@
       ],
       "uploadDate": "2026-11-16 07:38",
       "fileSize": "88 MB"
-    },
-    {
-      "title": "Icy Tower",
-      "uris": [
-        "magnet:?xt=urn:btih:d464b056544bf6c997dd8abe0c6221c8a8ac10e6&dn=Icy%20Tower&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
-      ],
-      "uploadDate": "2026-11-16 07:35",
-      "fileSize": "43 MB"
     },
     {
       "title": "Cozy Game Restoration",
@@ -5410,14 +5642,6 @@
       "fileSize": "14.11 GB"
     },
     {
-      "title": "Clone Drone in the Danger Zone",
-      "uris": [
-        "magnet:?xt=urn:btih:bf806541420a8ae4ee8449561d05bfab62bcd760&dn=Clone%20Drone%20in%20the%20Danger%20Zone&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
-      ],
-      "uploadDate": "2026-11-13 10:44",
-      "fileSize": "1.92 GB"
-    },
-    {
       "title": "Skigill",
       "uris": [
         "magnet:?xt=urn:btih:2529ba455cae7ebe612ae14b7986174c9efb94ad&dn=Skigill&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
@@ -6378,14 +6602,6 @@
       "fileSize": "2.48 GB"
     },
     {
-      "title": "No Man's Sky",
-      "uris": [
-        "magnet:?xt=urn:btih:280748f02854dcbf1720593c97790d6ca3e4fee6&dn=No%20Man's%20Sky&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
-      ],
-      "uploadDate": "2026-11-10 17:54",
-      "fileSize": "26.00 GB"
-    },
-    {
       "title": "Rust",
       "uris": [
         "magnet:?xt=urn:btih:34a58c462c472f6e18d83c58a4f9641805ce16b0&dn=Rust&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
@@ -6880,14 +7096,6 @@
       ],
       "uploadDate": "2026-11-09 17:06",
       "fileSize": "496 MB"
-    },
-    {
-      "title": "Leaf it Alone",
-      "uris": [
-        "magnet:?xt=urn:btih:caa889e2723d4b6fab7862725882844d73740314&dn=Leaf%20it%20Alone&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
-      ],
-      "uploadDate": "2026-11-09 17:05",
-      "fileSize": "1.49 GB"
     },
     {
       "title": "High Above",
@@ -8056,14 +8264,6 @@
       ],
       "uploadDate": "2026-11-06 09:48",
       "fileSize": "29.60 GB"
-    },
-    {
-      "title": "Old World",
-      "uris": [
-        "magnet:?xt=urn:btih:240c8918483127884f5fe28e7139e3d527cb6d0b&dn=Old%20World&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
-      ],
-      "uploadDate": "2026-11-06 09:37",
-      "fileSize": "2.58 GB"
     },
     {
       "title": "Roadside Research",
@@ -10040,14 +10240,6 @@
       ],
       "uploadDate": "2026-10-31 19:29",
       "fileSize": "535 MB"
-    },
-    {
-      "title": "Ведьмак 3 Дикая Охота Remastered",
-      "uris": [
-        "magnet:?xt=urn:btih:77d4e90378ff0afbdd54a9adb0de3de8c6c7816d&dn=%D0%92%D0%B5%D0%B4%D1%8C%D0%BC%D0%B0%D0%BA%203%20%D0%94%D0%B8%D0%BA%D0%B0%D1%8F%20%D0%9E%D1%85%D0%BE%D1%82%D0%B0%20Remastered&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
-      ],
-      "uploadDate": "2026-10-31 17:24",
-      "fileSize": "57.55 GB"
     },
     {
       "title": "Spark in the Dark",
@@ -13650,14 +13842,6 @@
       "fileSize": "2.58 GB"
     },
     {
-      "title": "Tunguska The Visitation",
-      "uris": [
-        "magnet:?xt=urn:btih:f032afa5ff6378f58b8cc29318454379eee1699c&dn=Tunguska%20The%20Visitation&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
-      ],
-      "uploadDate": "2026-10-25 08:11",
-      "fileSize": "2.58 GB"
-    },
-    {
       "title": "FlatOut 4: Total Insanity VR",
       "uris": [
         "magnet:?xt=urn:btih:fee3aadf4832b9966539e0f891316276e7fc9501&dn=FlatOut%204%3A%20Total%20Insanity%20VR&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
@@ -13800,14 +13984,6 @@
       ],
       "uploadDate": "2026-10-24 20:21",
       "fileSize": "621 MB"
-    },
-    {
-      "title": "Sandustry",
-      "uris": [
-        "magnet:?xt=urn:btih:9f860ae5b64e3bc20c2c94d2ed8881f3489bdd52&dn=Sandustry&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
-      ],
-      "uploadDate": "2026-10-24 20:18",
-      "fileSize": "259 MB"
     },
     {
       "title": "Sandustry",
@@ -14914,14 +15090,6 @@
       "fileSize": "281 MB"
     },
     {
-      "title": "Dressmaker",
-      "uris": [
-        "magnet:?xt=urn:btih:a522414c6111ebbf43d983add397d0f7b3af3a98&dn=Dressmaker&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
-      ],
-      "uploadDate": "2026-10-22 18:06",
-      "fileSize": "281 MB"
-    },
-    {
       "title": "BroomSweeper",
       "uris": [
         "magnet:?xt=urn:btih:ef27729be5f9555469547f187e74d0f8e9d3efe3&dn=BroomSweeper&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
@@ -15024,14 +15192,6 @@
       ],
       "uploadDate": "2026-10-22 17:40",
       "fileSize": "118.30 GB"
-    },
-    {
-      "title": "Stolen Realm",
-      "uris": [
-        "magnet:?xt=urn:btih:0312d348ab443c93528833550572ee75f3030a6d&dn=Stolen%20Realm&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
-      ],
-      "uploadDate": "2026-10-22 17:05",
-      "fileSize": "1019 MB"
     },
     {
       "title": "Stolen Realm",
@@ -16354,14 +16514,6 @@
       "fileSize": "63.41 GB"
     },
     {
-      "title": "Warhammer 40,000: Space Marine 2",
-      "uris": [
-        "magnet:?xt=urn:btih:d7aca0e4884acfcce960a1a30c7df20f1e000a61&dn=Warhammer%2040%2C000%3A%20Space%20Marine%202&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
-      ],
-      "uploadDate": "2026-10-21 14:56",
-      "fileSize": "63.41 GB"
-    },
-    {
       "title": "The Killing Stone",
       "uris": [
         "magnet:?xt=urn:btih:65c2c1da6a40a5cc41e07a4811d07ccd8ea091fc&dn=The%20Killing%20Stone&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
@@ -16464,14 +16616,6 @@
       ],
       "uploadDate": "2026-10-21 00:01",
       "fileSize": "920 MB"
-    },
-    {
-      "title": "After Inc: Revival",
-      "uris": [
-        "magnet:?xt=urn:btih:d7c18b51d3ade06beb5822dc2211bfde858074ca&dn=After%20Inc%3A%20Revival&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
-      ],
-      "uploadDate": "2026-10-21 00:00",
-      "fileSize": "1.69 GB"
     },
     {
       "title": "After Inc: Revival",
@@ -16696,14 +16840,6 @@
       ],
       "uploadDate": "2026-10-20 17:04",
       "fileSize": "16.27 GB"
-    },
-    {
-      "title": "Tank Squad",
-      "uris": [
-        "magnet:?xt=urn:btih:912c07839273836055251e4918018512559fbda5&dn=Tank%20Squad&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
-      ],
-      "uploadDate": "2026-10-20 17:00",
-      "fileSize": "11.30 GB"
     },
     {
       "title": "Tank Squad",
@@ -21746,14 +21882,6 @@
       "fileSize": "4.46 GB"
     },
     {
-      "title": "Knights of Honor 2 (II) Sovereign",
-      "uris": [
-        "magnet:?xt=urn:btih:1e2c66d8b9f9c5c8c7447a4765f5e5a2aa67e9e9&dn=Knights%20of%20Honor%202%20(II)%20Sovereign&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
-      ],
-      "uploadDate": "2026-10-10 11:01",
-      "fileSize": "4.46 GB"
-    },
-    {
       "title": "ContractVille",
       "uris": [
         "magnet:?xt=urn:btih:c31ad7968a5c25afd1e1acd9265a02497f14445c&dn=ContractVille&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
@@ -21984,14 +22112,6 @@
       ],
       "uploadDate": "2026-10-09 19:25",
       "fileSize": "584 MB"
-    },
-    {
-      "title": "TerraScape",
-      "uris": [
-        "magnet:?xt=urn:btih:cc3217a84812b3fedce98acac58890f8f0561c4c&dn=TerraScape&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
-      ],
-      "uploadDate": "2026-10-09 19:22",
-      "fileSize": "1.29 GB"
     },
     {
       "title": "TerraScape",
@@ -24704,14 +24824,6 @@
       ],
       "uploadDate": "2026-10-03 10:01",
       "fileSize": "1.58 GB"
-    },
-    {
-      "title": "Wizordum",
-      "uris": [
-        "magnet:?xt=urn:btih:08eed7502232f1747735a9a249878a463cf37791&dn=Wizordum&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
-      ],
-      "uploadDate": "2026-10-03 09:57",
-      "fileSize": "311 MB"
     },
     {
       "title": "Wizordum",
@@ -28034,14 +28146,6 @@
       "fileSize": "1.82 GB"
     },
     {
-      "title": "Cornucopia",
-      "uris": [
-        "magnet:?xt=urn:btih:6bd8236746d8521f1c4cb897439d1e7ac2ad7ccf&dn=Cornucopia&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
-      ],
-      "uploadDate": "2026-09-24 18:31",
-      "fileSize": "1.06 GB"
-    },
-    {
       "title": "Portobugia",
       "uris": [
         "magnet:?xt=urn:btih:b665db8355256f0dec73f9a86709b780ac46bb76&dn=Portobugia&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
@@ -29410,14 +29514,6 @@
       "fileSize": "1.14 GB"
     },
     {
-      "title": "Aksun",
-      "uris": [
-        "magnet:?xt=urn:btih:dde3e251a0b3ebfff40be8470c5ec0769a4ba2b3&dn=Aksun&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
-      ],
-      "uploadDate": "2026-09-20 17:36",
-      "fileSize": "1.14 GB"
-    },
-    {
       "title": "Oaken Tower",
       "uris": [
         "magnet:?xt=urn:btih:bba2b9fe2ea753251852f84ba012b6106324dad9&dn=Oaken%20Tower&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
@@ -29632,14 +29728,6 @@
       ],
       "uploadDate": "2026-09-19 12:41",
       "fileSize": "513 MB"
-    },
-    {
-      "title": "TFC: The Fertile Crescent",
-      "uris": [
-        "magnet:?xt=urn:btih:134a6d86725cc9a9f0f88c088b2977aa7a7bfc16&dn=TFC%3A%20The%20Fertile%20Crescent&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
-      ],
-      "uploadDate": "2026-09-19 12:34",
-      "fileSize": "294 MB"
     },
     {
       "title": "Desktop Raid",
@@ -30536,14 +30624,6 @@
       ],
       "uploadDate": "2026-09-17 10:52",
       "fileSize": "10.94 GB"
-    },
-    {
-      "title": "Company of Heroes 3",
-      "uris": [
-        "magnet:?xt=urn:btih:12430d1463205dabe0f885c59d6f09ac5191a633&dn=Company%20of%20Heroes%203&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
-      ],
-      "uploadDate": "2026-09-17 10:40",
-      "fileSize": "22.47 GB"
     },
     {
       "title": "Ex Sanguis",
@@ -33178,14 +33258,6 @@
       "fileSize": "379 MB"
     },
     {
-      "title": "Ark Nova",
-      "uris": [
-        "magnet:?xt=urn:btih:03242a536d5c70b0ff649a70628cb23bf39062c6&dn=Ark%20Nova&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
-      ],
-      "uploadDate": "2026-09-07 16:26",
-      "fileSize": "320 MB"
-    },
-    {
       "title": "CATO: Buttered Cat",
       "uris": [
         "magnet:?xt=urn:btih:f669f107a88c3b8f8e6b1456c94810d8a6b92835&dn=CATO%3A%20Buttered%20Cat&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
@@ -33888,14 +33960,6 @@
       ],
       "uploadDate": "2026-09-04 23:43",
       "fileSize": "15.89 GB"
-    },
-    {
-      "title": "Lords of the Fallen",
-      "uris": [
-        "magnet:?xt=urn:btih:2aa5118431ea597e553fbe4a37fc5b0d494e1b8b&dn=Lords%20of%20the%20Fallen&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
-      ],
-      "uploadDate": "2026-09-04 23:41",
-      "fileSize": "30.81 GB"
     },
     {
       "title": "Lakehopper",
@@ -34968,14 +35032,6 @@
       ],
       "uploadDate": "2026-09-01 11:15",
       "fileSize": "2.96 GB"
-    },
-    {
-      "title": "Cult of the Lamb",
-      "uris": [
-        "magnet:?xt=urn:btih:c8d6a00433eb7687918c4e2892e1bb1b34fff609&dn=Cult%20of%20the%20Lamb&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
-      ],
-      "uploadDate": "2026-08-31 22:52",
-      "fileSize": "2.67 GB"
     },
     {
       "title": "TOHOTOPIA",
@@ -36152,14 +36208,6 @@
       ],
       "uploadDate": "2026-08-25 19:41",
       "fileSize": "541 MB"
-    },
-    {
-      "title": "Breachway",
-      "uris": [
-        "magnet:?xt=urn:btih:f32c5b0e1b5746026f8e167780aec48867a5f30d&dn=Breachway&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
-      ],
-      "uploadDate": "2026-08-25 19:33",
-      "fileSize": "2.16 GB"
     },
     {
       "title": "Possible One: Lunar Industries",
@@ -37400,14 +37448,6 @@
       ],
       "uploadDate": "2026-08-21 11:12",
       "fileSize": "163 MB"
-    },
-    {
-      "title": "Shadows of Doubt",
-      "uris": [
-        "magnet:?xt=urn:btih:fea5fd68fc533a845ab968b902dced53d6db2419&dn=Shadows%20of%20Doubt&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
-      ],
-      "uploadDate": "2026-08-21 10:55",
-      "fileSize": "1.31 GB"
     },
     {
       "title": "Terraforming Mars",
@@ -42248,14 +42288,6 @@
       ],
       "uploadDate": "2026-07-23 10:38",
       "fileSize": "18.49 GB"
-    },
-    {
-      "title": "Warhammer 40,000 Battlesector",
-      "uris": [
-        "magnet:?xt=urn:btih:6bcef768cd7096c30d55c40bf6832c366a1f19b7&dn=Warhammer%2040%2C000%20Battlesector&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
-      ],
-      "uploadDate": "2026-07-23 09:58",
-      "fileSize": "5.31 GB"
     },
     {
       "title": "Voidling Bound",
@@ -47170,14 +47202,6 @@
       "fileSize": "127 MB"
     },
     {
-      "title": "Mortal Sin",
-      "uris": [
-        "magnet:?xt=urn:btih:583805d142b77d7a4c1cd4ed178fac26953c07df&dn=Mortal%20Sin&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
-      ],
-      "uploadDate": "2026-06-25 10:43",
-      "fileSize": "1.57 GB"
-    },
-    {
       "title": "Relief",
       "uris": [
         "magnet:?xt=urn:btih:82778fdd689d33e6970ea2225c8a54c19d266746&dn=Relief&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
@@ -47472,14 +47496,6 @@
       ],
       "uploadDate": "2026-06-24 18:14",
       "fileSize": "2.98 GB"
-    },
-    {
-      "title": "The Big Hollow: 1982",
-      "uris": [
-        "magnet:?xt=urn:btih:ddbd5f4eb7e850c63f12c3450447c8e85ba83621&dn=The%20Big%20Hollow%3A%201982&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
-      ],
-      "uploadDate": "2026-06-24 17:44",
-      "fileSize": "359 MB"
     },
     {
       "title": "The Big Hollow: 1982",
@@ -54360,14 +54376,6 @@
       ],
       "uploadDate": "2026-05-14 10:00",
       "fileSize": "2.90 GB"
-    },
-    {
-      "title": "GRIME 2 (II)",
-      "uris": [
-        "magnet:?xt=urn:btih:f184aad35ed19d2252e50b377a31c631b540f979&dn=GRIME%202%20(II)&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
-      ],
-      "uploadDate": "2026-05-14 08:45",
-      "fileSize": "12.23 GB"
     },
     {
       "title": "GRIME 2 (II)",
@@ -173920,14 +173928,6 @@
       ],
       "uploadDate": "2019-05-10 22:00",
       "fileSize": "2.97 GB"
-    },
-    {
-      "title": "Pillars Of Eternity 2 Deadfire",
-      "uris": [
-        "magnet:?xt=urn:btih:ed584eaa6330ea0b1f443d77411df379b191a8a5&dn=Pillars%20Of%20Eternity%202%20Deadfire&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
-      ],
-      "uploadDate": "2019-05-10 14:58",
-      "fileSize": "17.3 GB"
     },
     {
       "title": "Condemned Criminal Origins",
