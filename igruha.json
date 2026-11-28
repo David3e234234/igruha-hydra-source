@@ -2,6 +2,30 @@
   "name": "Torrent Igruha",
   "downloads": [
     {
+      "title": "Farmer's Diary",
+      "uris": [
+        "magnet:?xt=urn:btih:c712f9efaafa552a34fb65af7cc8815cf971cb50&dn=Farmer's%20Diary&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-28 12:31",
+      "fileSize": "5.89 GB"
+    },
+    {
+      "title": "Shark Mart",
+      "uris": [
+        "magnet:?xt=urn:btih:1593dad84511157ac59010898baaa7b80556e2a9&dn=Shark%20Mart&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-28 12:26",
+      "fileSize": "1.32 GB"
+    },
+    {
+      "title": "MeowFactory",
+      "uris": [
+        "magnet:?xt=urn:btih:ae5785aa5afd515c7f4111f50f3a09516a282aac&dn=MeowFactory&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-28 12:24",
+      "fileSize": "3.60 GB"
+    },
+    {
       "title": "It's About Pirates",
       "uris": [
         "magnet:?xt=urn:btih:24ca6e62163093dbb35d5320f6adde3fa1841b7d&dn=It's%20About%20Pirates&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
@@ -16,6 +40,14 @@
       ],
       "uploadDate": "2026-11-27 16:49",
       "fileSize": "268 MB"
+    },
+    {
+      "title": "Jurassic Architect",
+      "uris": [
+        "magnet:?xt=urn:btih:556959b659874c39b62c3c52f02826018626642c&dn=Jurassic%20Architect&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-11-27 16:48",
+      "fileSize": "165 MB"
     },
     {
       "title": "Shelf-Made Tycoon",
